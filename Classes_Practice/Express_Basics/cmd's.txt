@@ -1,0 +1,6 @@
+npm i -g nodemon - To Install nonemon.
+
+npm i express - To Install Express
+
+npm init -y - Initialize The Project.
+
